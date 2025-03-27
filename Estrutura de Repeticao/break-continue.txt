@@ -1,0 +1,27 @@
+break
+    Função: Encerra o laço imediatamente, ignorando o restante das iterações.
+    Uso: Quando uma condição específica é atingida e você deseja sair do laço.
+
+for i in range(5):
+    if i == 3:
+        break
+    print(i)
+
+0  
+1  
+2  
+
+
+continue
+    Função: Pula para a próxima iteração do laço, ignorando o restante do código abaixo dele na iteração atual.
+    Uso: Quando você deseja evitar executar parte do código para certas condições.
+
+for i in range(5):
+    if i == 3:
+        continue
+    print(i)
+
+0  
+1  
+2  
+4 
