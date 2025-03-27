@@ -29,15 +29,15 @@ Esta disciplina, oferecida no 2° período do curso Tecnólogo em Sistemas para 
 
 Este repositório contém os materiais abordados na disciplina, organizados em diretórios:
 
-- `Colecoes/` - Exemplos e exercícios sobre coleções em Python.
+- `Introducao/` - Primeiros passos com Python e conceitos básicos.
 - `Estrutura de Decisao/` - Material sobre estruturas de decisão (if, elif, else).
 - `Estrutura de Repeticao/` - Laços de repetição como for e while.
-- `Introducao/` - Primeiros passos com Python e conceitos básicos.
+- `Colecoes/` - Exemplos e uso de Listas e estruturas de dados (lista, conjuntos, tupla, dicionarios).
+- `Pacotes/` - Uso e criação de pacotes em Python.
 - `Manipulacao de Arquivos/` - Leitura e escrita de arquivos.
 - `Matplotlib/` - Exemplos de gráficos usando Matplotlib.
-- `Orientada a Objetos/` - Conceitos e exemplos de POO em Python.
-- `Pacotes/` - Uso e criação de pacotes em Python.
 - `Pandas/` - Manipulação de dados com Pandas.
+- `Orientada a Objetos/` - Conceitos e exemplos de POO em Python.
 
 ## 🚀 O que eu aprendi
 
