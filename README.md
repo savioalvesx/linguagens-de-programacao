@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-Esta disciplina, oferecida no segundo período do curso Tecnólogo em Sistemas para Internet do IFAC, aborda os fundamentos das linguagens de programação, incluindo sua evolução, classificação, paradigmas e metodologias. No decorrer do curso, utilizamos Python para explorar conceitos essenciais como estruturas de decisão, coleções, funções, manipulação de arquivos, bibliotecas populares e programação orientada a objetos.
+Esta disciplina, oferecida no 2° período do curso Tecnólogo em Sistemas para Internet do IFAC, aborda os fundamentos das linguagens de programação, incluindo sua evolução, classificação, paradigmas e metodologias. No decorrer do curso, utilizamos Python para explorar conceitos essenciais como estruturas de decisão, coleções, funções, manipulação de arquivos, bibliotecas populares e programação orientada a objetos.
 
 ## 📆 Conteúdos Abordados
 
